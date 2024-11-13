@@ -19,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - UNRELEASED
 
 ### Added
+- Creación de esferas en la North Area (12/11/2024).
+- Cración de cilindros en la South Area (12/11/2024).
 
 ### Changed
 
