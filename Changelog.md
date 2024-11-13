@@ -15,3 +15,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Creación de Prefabs (12/11/2024).
 - Update North Prefab (12/11/2024).
 - Creación de la plantilla de Pull requests (12/11/2024).
+
+## [0.0.1] - UNRELEASED
+
+### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
