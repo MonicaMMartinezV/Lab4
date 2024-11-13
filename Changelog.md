@@ -14,9 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Actualización inicial de la escena (12/11/2024).
 - Creación de Prefabs (12/11/2024).
 - Update North Prefab (12/11/2024).
-- Creación de la plantilla de Pull requests (12/11/2024).
+- Se agrega el changelog al proyecto (10/11/2022).
+- Se agrega plantilla para PR (10/11/2022).
 
-## [0.0.1] - UNRELEASED
+## [0.0.1] - 12/11/2024
 
 ### Added
 - Creación de esferas en la North Area (12/11/2024).
